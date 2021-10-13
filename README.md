@@ -3,7 +3,7 @@
 ## Objectives
 Create a professional README generator that gathers user information from the command line and creates a README file to accompany their project. The README includes a title and sections for the description, table of contents, installation, usage, contributions, tests, license, license badge, and questions.
 
-## Video Demonstration
+## Usage
 
 
 ## Link to GitHub Repo
